@@ -1,4 +1,4 @@
-# Atividade 5 - Visão Computacional
+# Atividade 6 - Visão Computacional
 
 ## Dupla de desenvolvimento:
 	- Anna Beatriz Pereira Lima			RA: 222.220.014-9
